@@ -1,0 +1,108 @@
+@media (max-width: 1412.98px) {
+    .group{
+        position: static;
+        
+    }
+    .rel{
+        margin: auto;
+    }
+    .task{
+        padding: 0;
+    }
+   }
+   @media (max-width: 1199.98px){
+       .row{
+           justify-content: space-around;
+       }
+       .blocks{
+        justify-content: space-around;
+    }
+   }
+   @media (max-width: 1047.98px){
+       .container{
+           justify-content: space-around;
+       }
+       .consult{
+           padding-top: 100px;
+       }
+       .textclap{
+           flex-direction: column;
+       }
+       .clap{
+           top: 0;
+           position: static;
+       }
+   }
+   @media (max-width: 545.98px){
+       .prof{
+           font-size: 40px;
+       }
+   }
+   @media (max-width: 613.98px){
+       .chel{
+           padding-left: 5px;
+           
+       }
+       .aktext{
+           margin-bottom: 20px;
+       }
+       .task{
+           padding-left: 5px;
+       }
+       .state{
+           padding-left: 5px;
+           padding-right: 5px;
+       }
+       .texticon{
+           padding-left: 5px;
+       }
+       .service{
+           padding-top: 20px;
+           padding-right: 5px;
+           padding-left: 5px;
+       }
+       .ways{
+        padding-left: 5px;
+        padding-right: 5px;
+       }
+   }
+   @media (max-width: 450.98px){
+       .search{
+           justify-content: space-around;
+           flex-direction: column;
+       }
+       .aktext{
+           margin-bottom: 20px;
+       }
+       .company{
+           margin: 10px;
+           display: inline-block;
+       }
+   }
+   @media (max-width: 400.98px){
+       .prof{
+           font-size: 30px;
+       }
+       .paragraph,
+       .money,
+       .staff,
+       .press{
+           margin-left: 0;
+           text-align: center;
+       }
+       .presstxt{
+           justify-content: space-around;
+       }
+   }
+   @media (max-width: 350.98px){
+       .service,
+       .consult{
+           font-size: 35px;
+       }
+       
+   }
+   @media (max-width: 304.98px){
+       .pc{
+           padding-left: 5px;
+       }
+   }
